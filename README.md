@@ -1,6 +1,6 @@
-# imdb-scraper
+# IMDB Scraper
 IMDB scraper server built with Nodejs
 
 ## Endpoints (GET Methods)
-- Search list - /search/:title
-- Movie - /movie/:imdbID
+- Search- /search/:title
+- Movie- /movie/:imdbID
